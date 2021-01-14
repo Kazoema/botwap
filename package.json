@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasap.git"
+    "url": "git+https://github.com/OneDeathCH/botwap.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Lord Kazoema",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasap/issues"
+    "url": "https://github.com/OneDeathCH/botwap/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasap/readme"
+  "homepage": "https://github.com/OneDeathCH/botwap/readme"
 }
