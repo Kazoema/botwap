@@ -1,2 +1,0 @@
-# botwap
-Bot Wacap
